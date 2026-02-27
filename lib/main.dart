@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
             borderRadius: BorderRadius.circular(16),
           ),
         ),
-        elevatedButtonThemeData: ElevatedButtonThemeData(
+        elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
             elevation: 2,
             padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 14),
